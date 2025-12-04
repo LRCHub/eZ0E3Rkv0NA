@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラストリゾート",
+  "base_artist": "Ayase",
+  "createdAt": "2025-12-04T09:05:49.893124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストリゾート",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_ラストリゾート_Ayase.txt"
+    }
+  ]
+}
